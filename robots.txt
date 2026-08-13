@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-8phcrj.goopcoffee.co/sitemap.xml
